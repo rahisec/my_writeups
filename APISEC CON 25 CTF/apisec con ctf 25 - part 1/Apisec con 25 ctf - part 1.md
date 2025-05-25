@@ -1,25 +1,5 @@
 # Apisec con 25 ctf - part 1
 
-Assalamualaikum (peace be upon you) everyone.
-
-I’m `Md. Fazle Rabbi`. Also known as `rahisec`
-
-Recently, I participated in **APISec Con 25 CTF** and secured **9th place. My team’s name was `whoami` though it was a solo competition.**
-
-I really enjoyed the competition, so I’ve decided to share my experience and write-ups with you all.
-
-![image.png](images/image.png)
-
-I started this competition 6 hours later and that time 1st, 2nd and 3rd already decided. However i joined in it and started to solve challenges one by one.
-
-At first it feels easy, i easily solved 14 challenges out of 17. but some challenges were tricky. Honestly i enjoyed every single challenges. I learned many things during solving the challenges.
-
-The most valuable lesson I realized from this competition is not to give up. At some challenges I reached at the dead end. but I knew something is here , I just need to figure it out.
-
-and sometimes we need to think out of the box. I become frustrated several times . Then I started wrap up everything that I found, and started to analyze from the beginning. And then I found the missing piece of the puzzle. I realized I was wasting my time on the wrong approach.
-
-Anyways. Lets start the show…
-
 Assalamualaikum (peace be upon you) everyone!
 
 I’m Md. Fazle Rabbi, also known online as rahisec 👨‍💻
