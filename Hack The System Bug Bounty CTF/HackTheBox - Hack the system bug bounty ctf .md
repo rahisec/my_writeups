@@ -1,6 +1,6 @@
-# HackTheBox - Hack the system : bug bounty ctf
+# HackTheBox - Hack the system : bug bounty ctf | SpeedNet
 
-# SpeedNet
+#Challenge Name: SpeedNet 
 
 Assalamualikum.
 
